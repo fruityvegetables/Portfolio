@@ -1,0 +1,19 @@
+img {
+    margin: 10px auto;
+
+}
+#main {
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+}
+@media only screen and (max-width: 383px) {
+    img {
+      width: 200px;
+    }
+  }
+
+body {
+    overflow-x: hidden;
+
+}
