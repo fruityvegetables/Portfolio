@@ -26,9 +26,8 @@ This assignment is to create a responsive website, with three pages. About me, C
 ### Bonus
 
 * Used Bootstrap to create a sticky footer. I changed the opacity to .2 so that it was clear and more text could be shown behind it.
+* Committed to GitHub more than before!
 
+## Link
 
-
-#### Committed to GitHub more than before!
-
-* Yayyyyy, I think I have six commits total!
+https://fruityvegetables.github.io/Portfolio/
